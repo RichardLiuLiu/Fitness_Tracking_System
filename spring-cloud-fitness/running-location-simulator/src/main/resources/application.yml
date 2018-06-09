@@ -1,0 +1,11 @@
+server:
+  port: 9005
+spring:
+  application:
+    name: running-location-simulator
+
+com:
+  yicong:
+    running:
+      location:
+        distribution: http://localhost:9006
